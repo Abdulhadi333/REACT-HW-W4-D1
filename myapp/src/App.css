@@ -1,0 +1,35 @@
+body{
+  background-color: rgba(171, 165, 165, 0.431) !important;
+}
+.loginForm {
+  width: 50% !important;
+  margin-left: 25%;
+}
+
+.needlogin{
+  color: aliceblue;
+}
+
+.listofNames{
+  list-style: none;
+  border: 2px black solid;
+  width: 35%;
+}
+
+.homepage{
+  margin-left: 10%;
+  border: 2px double rgb(93, 90, 105);
+  padding: 10px;
+  border-radius: 80px 30px;
+  width: 70%;
+  background-color: rgb(241, 238, 235);
+}
+ul{
+  margin-left: 10%;
+}
+
+
+
+.create{
+  margin-left: 25%;
+}
